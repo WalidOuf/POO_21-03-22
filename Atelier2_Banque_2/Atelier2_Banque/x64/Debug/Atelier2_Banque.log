@@ -1,0 +1,4 @@
+﻿  Atelier2_Banque.cpp
+C:\Users\startklar\Desktop\Work\Cpp\Cpp_22-03-06\Atelier2_Banque\Atelier2_Banque\ComptePayantEpargne.h(12,5): warning C4250: 'Banque::ComptePayantEpargne' : hérite de 'Banque::ComptePayant::Banque::ComptePayant::deposerArgent' via la dominance
+C:\Users\startklar\Desktop\Work\Cpp\Cpp_22-03-06\Atelier2_Banque\Atelier2_Banque\ComptePayant.h(12): message : voir la déclaration de 'Banque::ComptePayant::deposerArgent'
+  Atelier2_Banque.vcxproj -> C:\Users\startklar\Desktop\Work\Cpp\Cpp_22-03-06\Atelier2_Banque\x64\Debug\Atelier2_Banque.exe
